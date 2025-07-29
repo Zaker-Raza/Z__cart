@@ -1,2 +1,2 @@
-# Z__cart
-E-commerce website  college group project
+# Z__Cart
+E-Commerce website college group project
